@@ -28,7 +28,7 @@ As an example we will be making a directory for our example code and installing 
 ```sh
 mkdir helloFins
 cd helloFins
-npm install git://github.com/patrick--/node-omron-fins.git
+npm install git://github.com/ptrks/node-omron-fins.git
 ```
 
 ### Usage
